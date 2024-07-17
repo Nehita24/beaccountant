@@ -1,0 +1,475 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 190xp;
+  border: 300px;
+  padding-bottom: 30px;
+}
+ul {
+  display: flex;
+  margin-left: 630px;
+}
+ul li {
+  list-style-type: none;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+nav {
+  display: flex;
+  position: fixed;
+  background-color: white;
+  width: 1300px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+li a:hover {
+  color: #e62f43;
+}
+.containerred {
+  background-color: #e62f43;
+  background-image: url(./img/accountan4-section-bg1.png);
+  margin-right: 50px;
+  height: 780px;
+  width: 1300px;
+}
+.bi-arrow-right-circle-fill {
+  font-size: 40px;
+  margin-left: 50px;
+}
+.reds h1 {
+  color: white;
+  font-size: 60px;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+.reds h2 {
+  color: white;
+  margin-top: 140px;
+  margin-left: 50px;
+}
+span {
+  color: black;
+}
+.red {
+  display: flex;
+}
+.first {
+  display: flex;
+  height: 100px;
+  width: 250px;
+  background-color: white;
+  margin-left: 25px;
+}
+.text1 {
+  margin-left: 20px;
+  margin-top: 28px;
+}
+.second {
+  display: flex;
+  height: 100px;
+  width: 250px;
+  background-color: white;
+  margin-left: 25px;
+}
+.text2 {
+  margin-left: 20px;
+  margin-top: 28px;
+}
+.firstdiv {
+  display: flex;
+}
+.containerwhite {
+  background-color: white;
+}
+.white {
+  display: flex;
+  margin-top: 100px;
+}
+.bi-arrow-down-square-fill {
+  margin-left: 700px;
+  background-color: aliceblue;
+  color: #e62f43;
+  font-size: 20px;
+  border: 30px;
+}
+.white h1 {
+  margin-left: 100px;
+  font-size: 40px;
+}
+.white span {
+  color: #e62f43;
+}
+.three {
+  height: 240px;
+  width: 360px;
+  background-color: white;
+  border: 30px;
+  margin-top: 100px;
+  border-radius: 30px;
+  margin-left: 60px;
+}
+.three:hover {
+  background-color: #edf2f4;
+}
+.three p {
+  margin-top: 20px;
+  margin-left: 16px;
+}
+.three h3 {
+  margin-left: 16px;1
+}
+.bi-arrow-right {
+  color: #e62f43;
+  margin-left: 16px;
+}
+
+.three img {
+  background-color: white;
+  margin-left: 50px;
+}
+.three3 {
+  height: 240px;
+  width: 360px;
+  background-color: white;
+  border: 30px;
+  margin-top: 100px;
+  border-radius: 30px;
+  margin-left: 60px;
+}
+.threetwo :hover {
+  background-color: #edf2f4;
+}
+.threecontainer {
+  display: flex;
+}
+.threetwo p {
+  margin-top: 20px;
+  margin-left: 16px;
+}
+.threetwo h3 {
+  margin-left: 16px;
+}
+.threetwo img {
+  background-color: white;
+  margin-left: 50px;
+}
+.threethree {
+  height: 240px;
+  width: 360px;
+  background-color: white;
+  border: 30px;
+  margin-top: 100px;
+  border-radius: 30px;
+  margin-left: 60px;
+}
+.threethree p {
+  margin-top: 20px;
+  margin-left: 16px;
+}
+.threethree h3 {
+  margin-left: 16px;
+}
+.threethree img {
+  background-color: white;
+  margin-left: 50px;
+}
+.threeagain :hover {
+  background-color: #edf2f4;
+}
+.pink {
+  display: flex;
+  margin-top: 160px;
+}
+.pink1 {
+  margin-left: 60px;
+}
+.pink1 h2 {
+  font-size: 40px;
+}
+.pink1 span {
+  color: #e62f43;
+}
+.pink1 p {
+  font-size: 25px;
+  margin-top: 10px;
+  color: #8d99c0;
+  padding: 10px;
+}
+.pink1 button {
+  height: 50px;
+  width: 190px;
+  border-color: #e62f43;
+  border-radius: 5px;
+}
+.bigwhite {
+  margin-bottom: 90px;
+}
+.bigcontainer {
+  margin-top: 170px;
+  background-image: url(./img/accountan4-services-section-bg.webp);
+  height: 780px;
+  width: 1300px;
+}
+
+.bigwhite h1 {
+  margin-top: 40px;
+}
+.big h2 {
+  margin-top: 172px;
+  height: 190px;
+  width: 380px;
+  border: 10px;
+  background-color: white;
+  padding: 70px;
+  margin-left: 80px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.big h2 span {
+  color: #e62f43;
+}
+.bigcontainer {
+  display: flex;
+  position: relative;
+}
+.big6 h1 {
+  margin-top: 210px;
+  height: 190px;
+  width: 380px;
+  border: 10px;
+  border-color: black;
+  padding: 70px;
+
+  font-size: 30px;
+  color: white;
+  border: solid;
+  border-radius: 10px;
+}
+.big6 {
+  border-color: #8d99c0;
+}
+.bigtwoo {
+  margin-top: 400px;
+  margin-right: 300px;
+  position: absolute;
+  margin-left: 80px;
+  display: flex;
+}
+.bibig h1 {
+  height: 190px;
+  width: 380px;
+  border: 10px;
+  border-color: black;
+  padding: 70px;
+  font-size: 30px;
+  color: white;
+  border: solid;
+  border-radius: 10px;
+}
+.biggy h1 {
+  height: 190px;
+  width: 380px;
+  border: 10px;
+  border-color: black;
+  padding: 70px;
+  font-size: 30px;
+  color: white;
+  border: solid;
+  border-radius: 10px;
+}
+.threepictures {
+  margin-top: 100px;
+  background-color: white;
+}
+.threepictures h1 {
+  font-size: 40px;
+}
+.threepictures h1 span {
+  color: #e62f43;
+}
+.picsthree {
+  margin-top: 100px;
+  display: flex;
+}
+.ladyone:hover {
+  background-color: #edf2f4;
+}
+.ladyone {
+  height: 400px;
+  width: 340px;
+  border: 10px;
+  border-color: black;
+  margin-left: 40px;
+  color: black;
+  border: none;
+  border-radius: 10px;
+}
+.ladyone p {
+  margin: 30px;
+  font-size: 20px;
+}
+.ladyone h2 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.bi-arrow-right-short {
+  color: #e62f43;
+}
+.mam {
+  height: 400px;
+  width: 340px;
+  border: 10px;
+  border-color: black;
+  margin-left: 40px;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  margin-left: 30px;
+}
+.mam p {
+  margin: 30px;
+  font-size: 20px;
+}
+.mam h2 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.pictureman :hover {
+  background-color: #edf2f4;
+}
+.nulla {
+  height: 400px;
+  width: 340px;
+  border: 10px;
+  border-color: black;
+  margin-left: 40px;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  margin-left: 40px;
+}
+.nulla p {
+  margin: 10px;
+  font-size: 20px;
+}
+.nulla h2 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.managain:hover {
+  background-color: #edf2f4;
+}
+.redagain {
+  background-color: #e62f43;
+  background-image: url(./img/accountan4-section-bg1.png);
+  margin-right: 50px;
+  height: 800px;
+  width: 1300px;
+  margin-top: 90px;
+}
+.seered {
+  display: flex;
+}
+.ouraccount {
+  margin-top: 250px;
+}
+.ouraccount h1 {
+  font-size: 39px;
+  color: white;
+}
+.ouraccount p {
+  color: white;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.ouraccount button {
+  margin-top: 20px;
+  height: 40px;
+  width: 120px;
+  background-color: #e62f43;
+  border: 10px;
+  border-color: white;
+  border: solid;
+  border-radius: 10px;
+}
+.picturesss {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.picureman {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.contacts {
+  background-color: #edf2f4;
+  height: 700px;
+}
+.contactss {
+  padding: 70px;
+  margin-left: 290px;
+}
+.contacts h1 {
+  font-size: 50px;
+}
+.contacts h2 span {
+  color: #e62f43;
+}
+.contacts h2 {
+  margin: 10px;
+  margin-left: 120px;
+}
+.contacts button {
+  height: 60px;
+  width: 290px;
+  background-color: white;
+  border: #e62f43;
+  border: solid;
+  border-radius: 10px;
+  margin-left: 160px;
+  color: #e62f43;
+  margin-top: 20px;
+}
+.contactss button :hover {
+  background-color: #e62f43;
+}
+.contacts h4 {
+  margin-left: 165px;
+  margin-top: 20x;
+  padding: 10px;
+}
+.logo p {
+  color: #8d99c0;
+  margin: 10px;
+  font-size: 15px;
+  margin-top: 30px;
+}
+.logofooter {
+  display: flex;
+}
+.address {
+  margin-left: 200px;
+}
+.address p {
+  margin-left: 120px;
+  color: #8d99c0;
+  margin-top: 30px;
+}
+.open p {
+  margin-left: 120px;
+  font-size: 16px;
+  color: #8d99c0;
+  margin-top: 30px;
+}
+.endfooter {
+  margin-top: 150px;
+  color: #8d99c0;
+  margin-left: 70px;
+}
